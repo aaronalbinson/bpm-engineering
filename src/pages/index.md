@@ -3,7 +3,7 @@ templateKey: index-page
 title: BPM ENGINEERING
 image: /img/home-jumbotron.jpg
 heading: ----
-subheading: Support sustainable farming while enjoying a cup
+subheading: Manufacturers of Hot, Cold and Intermittent Perforators
 mainpitch:
   title: BPM ENGINEERING
   description: We are specialist producers of hot, cold and intermittent
